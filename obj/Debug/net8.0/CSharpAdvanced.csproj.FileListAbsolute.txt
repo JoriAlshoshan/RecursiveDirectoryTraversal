@@ -1,0 +1,14 @@
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net8.0\CSharpAdvanced.exe
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net8.0\CSharpAdvanced.deps.json
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net8.0\CSharpAdvanced.runtimeconfig.json
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net8.0\CSharpAdvanced.dll
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\bin\Debug\net8.0\CSharpAdvanced.pdb
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.AssemblyInfoInputs.cache
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.AssemblyInfo.cs
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.dll
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\refint\CSharpAdvanced.dll
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.pdb
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\CSharpAdvanced.genruntimeconfig.cache
+C:\Users\jorya\source\repos\CSharpAdvanced\CSharpAdvanced\obj\Debug\net8.0\ref\CSharpAdvanced.dll
